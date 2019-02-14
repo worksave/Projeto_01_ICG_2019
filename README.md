@@ -7,7 +7,7 @@ Disciplina: Introdução a Computação Grafica – ICG
 Professor: Christian Azambuja Pagot 
  
 Aluno(s): Carlos Magno da Silva – Matrícula: 20160143331 
-          Emmanuella Faustino Albuquerque Silva   – Matrícula:  20170002239  
+Emmanuella Faustino Albuquerque – Matrícula:  20170002239  
  
 Curso: Ciênca da Computação  
  
@@ -36,7 +36,7 @@ Neste trabalho foram desenvolvidas 03(três) funções cujas funcionalidades est
 (x,y) e sua cor (RGBA);  
 
 2-) DesenhaLinhas: Função que rasteriza uma linha na tela, recebendo como parâmetros os seus vértices (inicial  e  final,  
-representados  respectivamente  pelas  tuplas  (x0,y0)  e  (x1,y1)),  e  as  cores (no formato RGBA) de cada vértice. As cores
+representados  respectivamente  pelas  duplas  (x0,y0)  e  (x1,y1)),  e  as  cores (no formato RGBA) de cada vértice. As cores
  dos pixels ao longo da linha rasterizada devem ser obtidas através da interpolação linear das cores dos vértices. O algoritmo
  de rasterização a ser implementado deve ser o Algoritmo de Bresenham.
  
