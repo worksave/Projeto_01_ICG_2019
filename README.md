@@ -48,6 +48,16 @@ preenchimento  do triângulo.
 As funções, conforme solicitado, foram escritas na IDE CodeBlocks, utilizando a Linguagem C/C++ com as bibliotecas GLUT e 
 o OpenGL. 
 
+# 4. TELAS DE RESULTADOS DO PROCESSAMENTO 
+
+![icg - projeto 01 - fig_06](https://user-images.githubusercontent.com/46049252/52759223-376d1e80-2ff2-11e9-9a5c-2ed607e8b152.png)
+
+                          # Figura 01 – Rasterização de Pontos 
+
+![icg - projeto 01 - fig_05](https://user-images.githubusercontent.com/46049252/52759228-40f68680-2ff2-11e9-9db9-1dc2dba49b7b.png)
+
+                          # Figura 02 – Rasterização de Linha 
+
 # 5. CONCLUSÃO 
  
 # Principais Dificuldades    
